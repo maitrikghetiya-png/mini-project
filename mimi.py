@@ -1,4 +1,4 @@
-
+#mini project 
 # Student result maker
 
 print("🎓 STUDENT RESULT MAKER")
